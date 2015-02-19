@@ -1,0 +1,18 @@
+/*  Theme Name: blog-kulinarny
+	Description:  blog-kulinarny
+	Author: Justynka
+*/
+
+
+container {
+    background-image: linear-gradient 
+}
+
+header {
+    background-color: lavender;
+    border: aquamarine 1px solid;
+    border-radius: 10px;
+    text-align: center;
+    padding:10px;
+    margin: 20px;
+}
